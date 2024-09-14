@@ -1,5 +1,3 @@
-# README for PDF to PNG and OCR Conversion Script
-
 ## Overview
 This Python script automates the process of converting PDF files in the current directory into PNG images, applying OCR (Optical Character Recognition) to extract text, and merging the resulting OCR-processed pages back into a single PDF. The script is designed to handle multiple PDF files and uses the following technologies:
 - **ImageMagick** for PDF to PNG conversion.
